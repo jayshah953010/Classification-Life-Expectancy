@@ -1,5 +1,5 @@
 # Classification-Life-Expectancy
-Project aims to implement classification techniques using R libraries to classification of a dataset and then predictiong a training databased on the classifcation
+Project aims to implement classification techniques using R libraries to classification of a dataset and then predicting a training database on the classification
 
 Highlight of a Project:
 
